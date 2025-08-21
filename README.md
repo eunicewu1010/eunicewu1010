@@ -9,5 +9,5 @@
  - 🔭 I’m currently working on a proxy shopping wishlist platform.
  - 🌱 I’m currently learning AI skills.
  - 👯 I’m looking for projects to improve my Java programming skills.
- - 📫 How to reach me: wu.eunice1010@gmail.com
+ - 📫 How to reach me: email
  - 😄 Pronouns / Nickname: Shannon
