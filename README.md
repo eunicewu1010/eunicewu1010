@@ -5,7 +5,7 @@
 -->
 
 ---
-### Here are some ideas to get you started:
+### My Info:
  - 🔭 I’m currently working on a proxy shopping wishlist platform.
  - 🌱 I’m currently learning AI skills.
  - 👯 I’m looking for projects to improve my Java programming skills.
